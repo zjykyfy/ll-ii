@@ -1,6 +1,7 @@
 # Compiled source #
 ###################
 *.txt
+*.py
 *.md
 *.com
 *.class
