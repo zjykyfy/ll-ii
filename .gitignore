@@ -1,7 +1,6 @@
 # Compiled source #
 ###################
 *.txt
-*.py
 *.md
 *.com
 *.class
@@ -16,7 +15,6 @@
 # it's better to unpack these files and commit the raw source
 # git has its own built in compression methods
 *.txt
-*.py
 *.md
 *.7z
 *.dmg
@@ -30,7 +28,6 @@
 # Logs and databases #
 ######################
 *.txt
-*.py
 *.md
 *.log
 *.sql
@@ -39,7 +36,6 @@
 # OS generated files #
 ######################
 *.txt
-*.py
 *.md
 .DS_Store
 .DS_Store?
@@ -52,5 +48,4 @@ Thumbs.db
 # txt #
 ######################
 *.txt
-*.py
 *.md
