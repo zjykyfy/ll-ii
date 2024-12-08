@@ -8,6 +8,15 @@
 *.exe
 *.o
 *.so
+CNAME
+README.md
+
+
+# Ignore CNAME file#
+###################
+CNAME
+README.md
+
 
 
 # Packages #
@@ -24,6 +33,8 @@
 *.rar
 *.tar
 *.zip
+CNAME
+README.md
 
 # Logs and databases #
 ######################
@@ -32,6 +43,8 @@
 *.log
 *.sql
 *.sqlite
+CNAME
+README.md
 
 # OS generated files #
 ######################
@@ -44,8 +57,12 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+CNAME
+README.md
 
 # txt #
 ######################
 *.txt
 *.md
+CNAME
+README.md
